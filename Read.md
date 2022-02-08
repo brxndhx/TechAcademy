@@ -1,3 +1,3 @@
 # TechAcademy
 
-Projeto inicial
+Projeto Globotech
